@@ -1,0 +1,5 @@
+wonderlost/Library/*
+wonderlost/.vs/*
+wonderlost/Temp/*
+wonderlost/Assets/*.meta
+wonderlost/*.csproj
