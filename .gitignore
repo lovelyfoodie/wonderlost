@@ -1,5 +1,9 @@
-wonderlost/Library/*
-wonderlost/.vs/*
-wonderlost/Temp/*
-wonderlost/Assets/*
-wonderlost/*.csproj
+Library/*
+.vs/*
+Temp/*
+Assets/*
+!Assets/Scripts/*
+ProjectSettings/*
+*.csproj
+wonderlost.sln
+wonderlost.userprefs
